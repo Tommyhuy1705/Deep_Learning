@@ -1,0 +1,3 @@
+
+# Ignore CIFAR-100 raw binaries
+lab1/cifar-100-python/
